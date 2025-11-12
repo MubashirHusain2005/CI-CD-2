@@ -1,0 +1,19 @@
+# key value pairs
+
+name: foo bar
+age: 36
+job: Developer
+
+# Lists
+
+fruits:
+- apple
+- banana
+- cherry
+
+# nested elements
+
+address:
+  street: 123 street
+  city: London
+  country: UK
